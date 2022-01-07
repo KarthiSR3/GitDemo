@@ -2,16 +2,16 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-30T23:27:17 IST" name="Default suite" finished-at="2021-12-30T23:27:17 IST" duration-ms="58">
+  <suite started-at="2022-01-07T12:45:11 IST" name="Default suite" finished-at="2022-01-07T12:45:11 IST" duration-ms="39">
     <groups>
     </groups>
-    <test started-at="2021-12-30T23:27:17 IST" name="Default test" finished-at="2021-12-30T23:27:17 IST" duration-ms="58">
-      <class name="academy.SeleniumTest">
-        <test-method signature="BrowserAutomation()[pri:0, instance:academy.SeleniumTest@4313f5bc]" started-at="2021-12-30T23:27:17 IST" name="BrowserAutomation" finished-at="2021-12-30T23:27:17 IST" duration-ms="8" status="PASS">
+    <test started-at="2022-01-07T12:45:11 IST" name="Default test" finished-at="2022-01-07T12:45:11 IST" duration-ms="39">
+      <class name="academy.RestAPITest">
+        <test-method signature="postJira()[pri:0, instance:academy.RestAPITest@42e99e4a]" started-at="2022-01-07T12:45:11 IST" name="postJira" finished-at="2022-01-07T12:45:11 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BrowserAutomation -->
-      </class> <!-- academy.SeleniumTest -->
+        </test-method> <!-- postJira -->
+      </class> <!-- academy.RestAPITest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
